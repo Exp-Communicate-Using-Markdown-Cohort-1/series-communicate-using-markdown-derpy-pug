@@ -39,3 +39,5 @@ let add x y = x + y
 
 > [!WARNING] Alert
 > Critical content demanding immediate user attention due to potential risks.
+
+https://github.com/derpy-pug/cribbage-zero/blob/0e2985e80832a40c7de7812e8e63a0cc6293699d/src/board.c#L10C1-L27C2
