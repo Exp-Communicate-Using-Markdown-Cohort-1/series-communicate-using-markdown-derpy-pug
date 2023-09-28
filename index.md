@@ -37,5 +37,5 @@ let add x y = x + y
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
-> [!WARNING]  
+> [!WARNING] Alert
 > Critical content demanding immediate user attention due to potential risks.
