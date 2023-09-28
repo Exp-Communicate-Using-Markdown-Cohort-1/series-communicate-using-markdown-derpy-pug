@@ -20,3 +20,9 @@ int main() {
 let fuse = 3
 let add x y = x + y
 ```
+
+- [x] part 1
+- [x] part 2
+- [x] part 3
+- [ ] part 4
+- [ ] part 5
